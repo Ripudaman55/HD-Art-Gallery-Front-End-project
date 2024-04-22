@@ -1,0 +1,53 @@
+/* AboriginalSymbol.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .form input {
+    margin-right: 10px;
+    padding: 8px;
+  }
+  
+  .form button {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .symbol-table {
+    margin-top: 20px;
+  }
+  
+  .symbol-table table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .symbol-table th, .symbol-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  .symbol-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .symbol-table td img {
+    width: 100px;
+    height: 100px;
+  }
+  
